@@ -1,16 +1,26 @@
-### Hi there 👋
+# Gustavo Martin Alvarez
+Hi, my name is Gustavo
+I am a Information Systems Engineering student at UTN FRB.
+I am also an electromechanical technician.
 
-<!--
-**gustipardo/gustipardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since 2022, I have been learning web development programming. My current goal is to be able to conceptualize, design, and create high-quality software products.
+I am a firm believer in quality over quantity.
 
-Here are some ideas to get you started:
+Therefore, in this README, I will only present my most relevant projects
+## Projects
+Week Task Manager: https://github.com/gustipardo/Week-task-manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A project to track the weekly activities that one sets out to add to their routine, a method used by me.
+
+Caelis Chaos: https://caelischaos.vercel.app/
+
+A blog for a gaming company that serves as a presentation letter and a method to connect and keep the community informed.
+
+DSI: https://www.dsiconstructora.ar/
+Landing page for a construction company located in Argentina. Company presentation, showcase of completed works, and contact information.
+
+My technologies:
+
+Programming language: Javascript/Typescript
+
+Frameworks: React and Astro. With knowledge in Angular
