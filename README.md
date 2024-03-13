@@ -17,6 +17,7 @@ Therefore, in this README, I will only present my most relevant projects
   A blog for a gaming company that serves as a presentation letter and a method to connect and keep the community informed.
 
 - DSI: https://www.dsiconstructora.ar/
+  
   Landing page for a construction company located in Argentina. Company presentation, showcase of completed works, and contact information.
 
 ## My technologies
