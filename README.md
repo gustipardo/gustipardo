@@ -19,8 +19,7 @@ Therefore, in this README, I will only present my most relevant projects
 - DSI: https://www.dsiconstructora.ar/
   Landing page for a construction company located in Argentina. Company presentation, showcase of completed works, and contact information.
 
-My technologies:
-
+## My technologies
 Programming language: Javascript/Typescript
 
 Frameworks: React and Astro, with knowledge in Angular
