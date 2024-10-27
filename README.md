@@ -23,6 +23,8 @@ Mi proyecto mas pulido hasta el momento, consta de una solucion digital para una
   
   Landing page for a construction company located in Argentina. Company presentation, showcase of completed works, and contact information.
 
+- **Distro Pinto:** Identifique problemáticas en la gestión de pagos, control de facturas y generación de balances. Diseñe y desarrolle un sistema con React componetización con ShadCn y un Backend en Express con arquitectura MVC y una base de datos SQLite en la nube.
+
 ## My technologies
 Programming language: Javascript/Typescript
 
