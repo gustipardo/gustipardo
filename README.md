@@ -1,6 +1,6 @@
 # Gustavo Martin Alvarez
 Hi, my name is Gustavo
-I am a Information Systems Engineering student at UTN FRB.
+I am a Information Systems Engineering student at UTN FRD.
 I am also an electromechanical technician.
 
 Since 2022, I have been learning web development programming. My current goal is to be able to conceptualize, design, and create high-quality software products.
