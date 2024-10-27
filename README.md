@@ -30,5 +30,6 @@ Identifique problemáticas en la gestión de pagos, control de facturas y genera
 Programming language: Javascript/Typescript
 
 Frameworks: React and Astro, with knowledge in Angular
-
-Backend: Nodejs, MongoDB
+Librerias: Zod, TanStack Table, ShadCn, Ant Desing
+Backend: Nodejs, MongoDB, SQLite, PostgreSQL, JWT
+Cloud: S3, EC2, Route54, IAM, EBS.
