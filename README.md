@@ -8,11 +8,13 @@ I am a firm believer in quality over quantity.
 
 Therefore, in this README, I will only present my most relevant projects
 ## Projects
-  **Laccei Group Website:  **
+- **Laccei Group Website:**
+
 Live Demo: https://pagina-web-blush-seven.vercel.app/
 I contributed to the creation of the official landing page for Laccei, a faculty group from my university. This project was particularly meaningful as it helped me stay connected with my academic community during my gap year in New Zealand. It utilized Astro, incorporated Lucide icons, and its design was initially crafted in Figma. This was a collaborative effort with Magali Acosta and Jose Pablo Garcia.
 
-  **Distribuidora Pinto: ** https://distro-pinto-app.vercel.app/facturas
+- **Distribuidora Pinto:** https://distro-pinto-app.vercel.app/facturas
+
 A digital solution for a food distribution company. For this, I took on a systems analyst role, examining their invoicing and collections processes to identify problems and design appropriate solutions. This solution consists of a web application with a React frontend, designed in Figma, utilizing Shadcn components and Zustand for state management. The API is built with Express in an MVC architecture, and the database uses SQLite3. The project can be developed with a local SQLite3 database and then deployed to a production environment with Turso.
 
 - **Week Task Manager:** https://github.com/gustipardo/Week-task-manager
