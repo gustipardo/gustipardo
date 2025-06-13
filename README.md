@@ -8,8 +8,8 @@ I am a firm believer in quality over quantity.
 
 Therefore, in this README, I will only present my most relevant projects
 ## Projects
-  **Distribuidora Pinto: (Pending trasnlation)** https://distro-pinto-app.vercel.app/facturas
-Mi proyecto mas pulido hasta el momento, consta de una solucion digital para una empresa distruidora de alimentos. Para ello tuve que tomar un rol de analista de sistemas al examinar sus procesos de facturacion y cobros para poder identificar sus problemas y diseñar soluciones acordes. Esta solcuon consta de una aplicacion web con un frontend hecho en react, maquetado en figma, utilizando componentes de Shadcn y estados con Zutand. La API esta hecha con Express en una arquitectura MVC y una base de datos en SQLite3. El proyecto tiene la posibilidad de desarrollarse en una base de datos sqlite3 local y luego desplegarse en la una es produccion con Turso.
+  **Distribuidora Pinto: ** https://distro-pinto-app.vercel.app/facturas
+A digital solution for a food distribution company. For this, I took on a systems analyst role, examining their invoicing and collections processes to identify problems and design appropriate solutions. This solution consists of a web application with a React frontend, designed in Figma, utilizing Shadcn components and Zustand for state management. The API is built with Express in an MVC architecture, and the database uses SQLite3. The project can be developed with a local SQLite3 database and then deployed to a production environment with Turso.
 
 - **Week Task Manager:** https://github.com/gustipardo/Week-task-manager
 
