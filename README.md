@@ -1,13 +1,17 @@
 # Gustavo Martin Alvarez
 Hi, my name is Gustavo
 I am a Information Systems Engineering student at UTN FRD.
-I am also an electromechanical technician.
+I am also AWS Certified Develope
 
 Since 2022, I have been learning web development programming. My current goal is to be able to conceptualize, design, and create high-quality software products.
 I am a firm believer in quality over quantity.
 
 Therefore, in this README, I will only present my most relevant projects
 ## Projects
+  **Laccei Group Website:  **
+Live Demo: https://pagina-web-blush-seven.vercel.app/
+I contributed to the creation of the official landing page for Laccei, a faculty group from my university. This project was particularly meaningful as it helped me stay connected with my academic community during my gap year in New Zealand. It utilized Astro, incorporated Lucide icons, and its design was initially crafted in Figma. This was a collaborative effort with Magali Acosta and Jose Pablo Garcia.
+
   **Distribuidora Pinto: ** https://distro-pinto-app.vercel.app/facturas
 A digital solution for a food distribution company. For this, I took on a systems analyst role, examining their invoicing and collections processes to identify problems and design appropriate solutions. This solution consists of a web application with a React frontend, designed in Figma, utilizing Shadcn components and Zustand for state management. The API is built with Express in an MVC architecture, and the database uses SQLite3. The project can be developed with a local SQLite3 database and then deployed to a production environment with Turso.
 
@@ -22,9 +26,6 @@ A digital solution for a food distribution company. For this, I took on a system
 - **DSI:** https://www.dsiconstructora.ar/
   
   Landing page for a construction company located in Argentina. Company presentation, showcase of completed works, and contact information.
-
-- **Distro Pinto:** https://github.com/gustipardo/distro-pinto
-Identifique problemáticas en la gestión de pagos, control de facturas y generación de balances. Diseñe y desarrolle un sistema con React componetización con ShadCn y un Backend en Express con arquitectura MVC y una base de datos SQLite en la nube.
 
 ## My technologies
 Programming language: Javascript/Typescript
