@@ -8,6 +8,11 @@ I am a firm believer in quality over quantity.
 
 Therefore, in this README, I will only present my most relevant projects
 ## Projects
+
+- **Payroll Integration PoC - Azure Functions**: https://github.com/gustipardo/payroll-integration-poc
+I developed a payroll integration PoC using Azure Functions to expose REST endpoints, with overtime calculation logic and approval flow. CI/CD pipeline configured in GitHub Actions (build → tests → deploy).
+
+
 - **Laccei Group Website:**
 
 Live Demo: https://pagina-web-blush-seven.vercel.app/
