@@ -54,13 +54,22 @@ Since 2022, I have been learning web development and cloud engineering. My goal 
   Live: https://www.dsiconstructora.ar/  
   Company landing page with service presentation, project showcase, and contact channel.
 
-## Technologies
+## 🛠️ Technical Stack
 
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** React, Astro (knowledge of Angular)
-- **Libraries/UI:** Zod, TanStack Table, Shadcn, Ant Design
-- **Backend:** Node.js, MongoDB, SQLite, PostgreSQL, JWT
-- **Cloud/DevOps:** AWS (S3, EC2, Route 53, IAM, EBS), Terraform, Docker, GitHub Actions
+### ☁️ Cloud & Infrastructure (AWS Certified Developer)
+* **Serverless & Compute:** AWS Lambda, API Gateway, EventBridge, EC2, AppConfig.
+* **Storage & Databases:** S3, DynamoDB, PostgreSQL (RDS), SQLite (Turso), MongoDB, Redis.
+* **Security & Networking:** IAM (Roles/Policies), Cognito, KMS, Route 53, VPC.
+* **IaC & DevOps:** Terraform, Docker, Kubernetes (EKS), GitHub Actions (CI/CD).
+
+### 💻 Software Development
+* **Languages:** TypeScript, JavaScript, Python (Data/Backend), Rust (CLI Tooling).
+* **Backend:** Node.js (Express), Bun, JWT Auth, Zod (Validation), RESTful APIs.
+* **Frontend:** React, Next.js, Astro, Tailwind CSS, Shadcn/UI, TanStack Table, Ant Design.
+
+### 🧪 Quality & Tools
+* **Testing:** Vitest, SuperTest, Playwright, Cypress.
+* **Architecture:** MVC, Event-Driven Architecture, Microservices, Cloud-Native Patterns.
 
 ## Analytics / Impact
 
