@@ -71,8 +71,8 @@ Since 2022, I have been learning web development and cloud engineering. My goal 
 * **Testing:** Vitest, SuperTest, Playwright, Cypress.
 * **Architecture:** MVC, Event-Driven Architecture, Microservices, Cloud-Native Patterns.
 
-## Analytics / Impact
+## 📈 Impact & Results
 
-- Reduced manual invoice tracking time by **40%** in Distribuidora Pinto.
-- Delivered MVP systems that progressed from validation to production-oriented implementations.
-- Built and maintained CI/CD workflows to improve deployment reliability and engineering velocity.
+* **Operational Efficiency:** Reduced manual invoice tracking time by **40%** at Distribuidora Pinto through an automated React/Express solution.
+* **Cloud Reliability:** Improved AWS Bedrock stability in the **Rizzler (Rust CLI)** project by implementing robust retry logic for transient API failures.
+* **Developer Experience:** Enhanced documentation for **AWS Labs (Agent Squad)**, providing production-ready logging snippets for 7.5k+ developers.
